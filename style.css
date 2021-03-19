@@ -1,7 +1,41 @@
-h1{
+body{
+    background-color: rgb(2, 92, 54);
+    font-style: italic;
+}
+
+main{
     background-image: url(1-.png);
     height: 400px;
     width: 100%;
     text-align: center;
     padding: 20px 0px 0px 0px;
+    border: 2px solid rgb(2, 92, 54);
+    border-radius: 20px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.one{
+    font-size: 20px;
+    margin: 20px;
+}
+
+img{
+    size: 900px;
+    border: 1px solid rgb(2, 92, 54);
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+}
+
+.pone{
+    margin: 0px 0px 0px 40px;
+}
+aside{
+    color: white;
 }
