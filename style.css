@@ -14,9 +14,11 @@ main{
 }
 
 p{
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
-    
+    margin: 0px 0px 0px 40px;
+    display: inline;
+    width: 50%;
 }
 
 .one{
@@ -28,14 +30,43 @@ img{
     size: 900px;
     border: 1px solid rgb(2, 92, 54);
     border-radius: 25px;
+    margin: 0px 0px 0px 20px;
 }
 h1{
     text-align: center;
+    font-size: 40px;
+    color: black;
 }
 
-.pone{
-    margin: 0px 0px 0px 40px;
-}
+
 aside{
     color: white;
+    text-align: center;
+    width: 50%;
+}
+
+
+.pone{
+    margin: 0px 0px 0px 220px
+}
+h2{
+    text-align: left;
+    margin: 0px 0px 0px 100px;
+    
+}
+
+
+div{
+    position: relative;
+}
+
+
+.of{
+    position: absolute;
+    left: 50%;
+    bottom: 330px;
+    font-size: 20px;
+    width: 40%;
+    border: 5px solid black;
+    border-radius: 20px;
 }
